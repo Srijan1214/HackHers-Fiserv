@@ -1,0 +1,4 @@
+0.6848484848484848
+-0.31517038525001784
+
+x_14 is the least significant column: the accuracy did not decrease when removing this column
